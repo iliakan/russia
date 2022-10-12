@@ -1,6 +1,6 @@
 # Мобилизация
 
-![image](https://user-images.githubusercontent.com/349336/195272251-f7031221-8de5-4a14-96c7-e8b83e836616.png)
+![image](https://user-images.githubusercontent.com/349336/195272251-f7031221-8de5-4a14-96c7-e8b83e836616.png | width = 100)
 
 Не хочешь убивать и быть убитым? Будь в курсе.
 
